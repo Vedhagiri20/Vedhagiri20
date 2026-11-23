@@ -5,11 +5,9 @@
 Building maintainable software across backend engineering, APIs, data, security, workflow automation, and cloud delivery.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedhagiri20)
-[![GitHub](https://img.shields.io/badge/GitHub-Vedhagiri--20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vedhagiri-20)
+[![GitHub](https://img.shields.io/badge/GitHub-Vedhagiri20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vedhagiri20)
 [![Email](https://img.shields.io/badge/Email-vedhagiri209%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedhagiri209@gmail.com)
 [![Secure Flow](https://img.shields.io/badge/Live_Project-Secure_Flow-C9A55C?style=flat-square)](https://secureflow-enterprise.onrender.com)
-
-</div>
 
 ---
 
@@ -36,7 +34,7 @@ Senior Software Engineer
 Application Engineer
         ↑
 B.E. Mechanical Engineering
-````
+```
 
 My transition from engineering into enterprise software has shaped how I approach technical problems: understand the business process first, then build the simplest reliable system that solves it.
 
@@ -60,8 +58,8 @@ My transition from engineering into enterprise software has shaped how I approac
 ### Enterprise Loan Workflow & Approval Platform
 
 [![Live](https://img.shields.io/badge/Live_Demo-Open_Secure_Flow-C9A55C?style=for-the-badge)](https://secureflow-enterprise.onrender.com)
-[![Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/Vedhagiri-20/secureflow-enterprise-platform)
-[![Release](https://img.shields.io/badge/Release-v1.0.1-0C2B40?style=for-the-badge)](https://github.com/Vedhagiri-20/secureflow-enterprise-platform/releases/tag/v1.0.1)
+[![Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/Vedhagiri20/secureflow-enterprise-platform)
+[![Release](https://img.shields.io/badge/Release-v1.0.1-0C2B40?style=for-the-badge)](https://github.com/Vedhagiri20/secureflow-enterprise-platform/releases/tag/v1.0.1)
 
 Secure Flow is a production-deployed full-stack application that models an enterprise loan workflow across **customers, lending employees, managers, and administrators**.
 
@@ -69,7 +67,7 @@ I built the project end-to-end — application workflow, backend APIs, authentic
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Vedhagiri-20/secureflow-enterprise-platform/main/doc/screenshots/01-landing-page.png"
+    src="https://raw.githubusercontent.com/Vedhagiri20/secureflow-enterprise-platform/main/doc/screenshots/01-landing-page.png"
     alt="Secure Flow"
     width="100%"
   />
@@ -117,7 +115,7 @@ Audit & Reporting
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Vedhagiri-20/secureflow-enterprise-platform/main/doc/architecture/secureflow-production-architecture.png"
+    src="https://raw.githubusercontent.com/Vedhagiri20/secureflow-enterprise-platform/main/doc/architecture/secureflow-production-architecture.png"
     alt="Secure Flow Production Architecture"
     width="100%"
   />
@@ -332,7 +330,7 @@ I am particularly interested in teams building business-critical products where 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/vedhagiri20) ·
-[GitHub](https://github.com/Vedhagiri-20) ·
+[GitHub](https://github.com/Vedhagiri20) ·
 [Email](mailto:vedhagiri209@gmail.com) ·
 [Secure Flow](https://secureflow-enterprise.onrender.com)
 
